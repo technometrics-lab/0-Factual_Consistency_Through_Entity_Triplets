@@ -1,0 +1,194 @@
+abbreviations==0.2.5
+absl-py==2.1.0
+aiofiles==23.2.1
+aiohttp==3.9.1
+aiosignal==1.3.1
+annotated-types==0.6.0
+antlr4-python3-runtime==4.9.3
+anyio==4.2.0
+asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
+astunparse==1.6.3
+attrs==23.2.0
+beautifulsoup4==4.12.3
+blinker==1.7.0
+blis==0.7.11
+cachetools==5.3.2
+catalogue==2.0.10
+certifi==2023.11.17
+charset-normalizer==3.3.2
+ci-info==0.3.0
+click==8.1.7
+cloudpathlib==0.16.0
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1704278392174/work
+community==1.0.0b1
+confection==0.1.4
+configobj==5.0.8
+configparser==6.0.0
+contourpy==1.2.0
+cycler==0.12.1
+cymem==2.0.8
+cytoolz==0.12.2
+datasets==2.16.1
+debugpy @ file:///C:/b/abs_c0y1fjipt2/croot/debugpy_1690906864587/work
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+dill==0.3.7
+emoji==2.10.0
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.7.1/en_core_web_lg-3.7.1-py3-none-any.whl#sha256=ab70aeb6172cde82508f7739f35ebc9918a3d07debeed637403c8f794ba3d3dc
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
+etelemetry==0.3.1
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1704921103267/work
+executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1698579936712/work
+fastcoref==2.1.6
+filelock==3.13.1
+Flask==3.0.2
+flatbuffers==23.5.26
+floret==0.10.5
+fonttools==4.47.2
+frontend==0.0.3
+frozenlist==1.4.1
+fsspec==2023.10.0
+future==0.18.3
+gast==0.4.0
+gensim==4.3.2
+google-auth==2.26.2
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+grpcio==1.60.0
+h11==0.14.0
+h5py==3.10.0
+httplib2==0.22.0
+huggingface-hub==0.20.3
+hydra-core==1.3.2
+idna==3.6
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1703269254275/work
+ipykernel @ file:///D:/bld/ipykernel_1705418162861/work
+ipython @ file:///D:/bld/ipython_1704719016910/work
+isodate==0.6.1
+itsdangerous==2.1.2
+jax==0.4.24
+jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1696326070614/work
+jellyfish==1.0.3
+Jinja2==3.1.3
+joblib==1.3.2
+jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1699283905679/work
+jupyter_core @ file:///C:/b/abs_c769pbqg9b/croot/jupyter_core_1698937367513/work
+keras==2.12.0
+kiwisolver==1.4.5
+langcodes==3.3.0
+libclang==16.0.6
+looseversion==1.3.0
+lxml==5.1.0
+Markdown==3.5.2
+MarkupSafe==2.1.3
+matplotlib==3.8.2
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1660814786464/work
+ml-dtypes==0.2.0
+mpmath==1.3.0
+multidict==6.0.4
+multiprocess==0.70.15
+murmurhash==1.0.10
+neo4j==5.17.0
+nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1705352640985/work
+networkx==3.2.1
+nibabel==5.2.0
+nipype==1.8.6
+nltk==3.8.1
+numpy==1.23.5
+oauthlib==3.2.2
+omegaconf==2.3.0
+opt-einsum==3.3.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
+pandas==2.1.4
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1638334955874/work
+pathlib==1.0.1
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+pillow==10.2.0
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1701708255999/work
+preshed==3.0.9
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1702399386289/work
+protobuf==4.23.4
+prov==2.0.0
+psutil @ file:///C:/ci_311_rebuilds/psutil_1679005906571/work
+pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1642875951954/work
+pyarrow==15.0.0
+pyarrow-hotfix==0.6
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pydantic==2.5.3
+pydantic_core==2.14.6
+pydot==2.0.0
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1700607939962/work
+PyMuPDF==1.23.16
+PyMuPDFb==1.23.9
+pyparsing==3.1.1
+pyphen==0.14.0
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-louvain==0.16
+pytz==2023.3.post1
+pywin32==305.1
+pyxnat==1.6
+PyYAML==6.0.1
+pyzmq @ file:///C:/b/abs_89aq69t0up/croot/pyzmq_1705605705281/work
+rdflib==7.0.0
+regex==2023.12.25
+requests==2.31.0
+requests-oauthlib==1.3.1
+rsa==4.9
+safetensors==0.4.1
+scikit-learn==1.4.0
+scipy==1.11.4
+seaborn==0.13.1
+sentence-transformers==2.2.2
+sentencepiece==0.1.99
+simplejson==3.19.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+smart-open==6.4.0
+sniffio==1.3.0
+soupsieve==2.5
+spacy==3.7.2
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+srsly==2.4.8
+stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
+stanza==1.7.0
+starlette==0.35.1
+sympy==1.12
+tensorboard==2.12.3
+tensorboard-data-server==0.7.2
+tensorflow==2.12.0
+tensorflow-addons==0.22.0
+tensorflow-estimator==2.12.0
+tensorflow-hub==0.15.0
+tensorflow-intel==2.12.0
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.4.0
+textacy==0.13.0
+thinc==8.2.2
+threadpoolctl==3.2.0
+tokenizers==0.15.0
+toml==0.10.2
+toolz==0.12.1
+torch==2.1.2
+torchvision==0.16.2
+tornado @ file:///C:/b/abs_0cbrstidzg/croot/tornado_1696937003724/work
+tqdm==4.66.1
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1704212992681/work
+traits==6.3.2
+transformers==4.36.2
+typeguard==2.13.3
+typer==0.9.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1702176139754/work
+tzdata==2023.4
+urllib3==2.1.0
+uvicorn==0.26.0
+wasabi==1.1.2
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
+weasel==0.3.4
+Werkzeug==3.0.1
+wget==3.2
+wordcloud==1.9.3
+wrapt==1.14.1
+xxhash==3.4.1
+yarl==1.9.4
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
